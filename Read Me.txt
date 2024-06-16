@@ -1,0 +1,9 @@
+choose the fifa_player.csv file to perform analysis
+
+Linear Regression, Decision Trees, Random Forest, XG Boost and SVR models have been developed.
+
+Choose whichever model is giving best result.
+
+Use testing.xlsx file to predict value of players.
+
+export the file with predicted values.
